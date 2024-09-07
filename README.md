@@ -1,3 +1,5 @@
+Created By Callum Gillies, Michael Stevenson and Kaitlyn Yi-Hsien Lin
+
 # Lessoncraft
 
 https://lessoncraft.netlify.app/
